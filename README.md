@@ -13,6 +13,7 @@ Diagnosed and troubleshoot different websites of the company's critical clients 
 <H2>Certification</H2>
 https://courses.cognitiveclass.ai/certificates/22721d0de4754dc5886de40f4bb5f99f
 https://www.linkedin.com/posts/lyndon-domini-m-catan_oracle-cloud-infrastructure-2024-certified-activity-7271546879438413824-VKii?utm_source=share&utm_medium=member_desktop
+
 <H2>Skills</H2>
 <p>Programming: Java, Java script, Phyton </p>
 <p>Data base:</p>
