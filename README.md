@@ -11,7 +11,7 @@ Diagnosed and troubleshoot different websites of the company's critical clients 
 <p>New Era UNiversity</p>
 
 <H2>Certification</H2>
-<p>https://shorturl.at/y3vjO</p>
+<p>SQL and Relational Databases 101 https://shorturl.at/y3vjO</p>
 <p>Oracle Cloud Infrastructure 2024 Certified Foundations Associate https://shorturl.at/aDtwh
 </p>
 <p>Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate https://shorturl.at/qCNcW</p>
