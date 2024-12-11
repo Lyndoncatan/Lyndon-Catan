@@ -11,9 +11,9 @@ Diagnosed and troubleshoot different websites of the company's critical clients 
 <p>New Era UNiversity</p>
 
 <H2>Certification</H2>
-https://courses.cognitiveclass.ai/certificates/22721d0de4754dc5886de40f4bb5f99f
-https://catalog-education.oracle.com/ords/certview/sharebadge?id=EBD6649F5E8A7E6551637DB112D71CCA118CBB4B7171B05EDC3CDC78C3F65574
-https://catalog-education.oracle.com/ords/certview/sharebadge?id=EBD6649F5E8A7E6551637DB112D71CCAD1DC41B1394EC614343A0F81173C4223
+https://shorturl.at/y3vjO
+https://shorturl.at/aDtwh
+https://shorturl.at/qCNcW
 
 <H2>Skills</H2>
 <p>Programming: Java, Java script, Phyton </p>
