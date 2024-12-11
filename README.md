@@ -11,9 +11,10 @@ Diagnosed and troubleshoot different websites of the company's critical clients 
 <p>New Era UNiversity</p>
 
 <H2>Certification</H2>
-https://shorturl.at/y3vjO
-https://shorturl.at/aDtwh
-https://shorturl.at/qCNcW
+<p>https://shorturl.at/y3vjO</p>
+<p>https://shorturl.at/aDtwh
+</p>
+<p>https://shorturl.at/qCNcW</p>
 
 <H2>Skills</H2>
 <p>Programming: Java, Java script, Phyton </p>
