@@ -14,7 +14,7 @@ Diagnosed and troubleshoot different websites of the company's critical clients 
 <p>https://shorturl.at/y3vjO</p>
 <p>https://shorturl.at/aDtwh
 </p>
-<p>https://shorturl.at/qCNcW</p>
+<p>Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate https://shorturl.at/qCNcW</p>
 
 <H2>Skills</H2>
 <p>Programming: Java, Java script, Phyton </p>
